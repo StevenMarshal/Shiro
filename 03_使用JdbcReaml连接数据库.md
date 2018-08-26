@@ -116,6 +116,15 @@
 	    }
 	}
 
-## 3.5 测试运行结果
+## 3.5 示例说明
 
+jdbc_realm.ini文件
+
+![](images/shiyongdruidshujukulianjiechi.png) 
+
+![](images/shiyongdruidshujukulianjiechi2.png) 
+
+对于pom.xml文件
+
+![](images/shujukulianjiechiyilaibao.png) 
 
