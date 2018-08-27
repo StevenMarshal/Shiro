@@ -166,6 +166,8 @@
 	    }
 	}
 
+![](images/shiroshouquanshilidaima1.png) 
+
 根据Shiro可以得到测试的直接结果为：
 
     [true, true, false]
@@ -201,6 +203,8 @@
 	        }
 	    }
 	}
+
+![](images/shiroshouquanshilidaima2.png) 
 
 根据Shiro可以得到测试的直接结果为：
 
